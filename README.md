@@ -7,11 +7,11 @@
   <title>DDS ALL SOLUTION | Alquiler de Equipos Industriales</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
+      font-family: Montserrat, sans-serif;
       margin: 0;
       padding: 0;
       line-height: 1.6;
-      background-color: #f4f4f4;
+      background-color: #27ae60;
       color: #333;
     }
     header, section, footer {
